@@ -2,7 +2,7 @@
 
 You can hack any near bluetooth device using BlueHunter
 
-<img title="SIGIT" src="https://img.shields.io/badge/CODENAME%20-BlueHunter-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="SARA" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
+<img title="SIGIT" src="https://img.shields.io/badge/CODENAME%20-BlueHunter-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="aw" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
 
 
 
