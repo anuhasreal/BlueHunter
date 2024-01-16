@@ -2,7 +2,7 @@
 
 You can hack any near bluetooth device using BlueHunter
 
-<img title="SIGIT" src="https://img.shields.io/badge/CODENAME%20-BlueHunter-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="aw" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
+<img title="SIGIT" src="https://img.shields.io/badge/CODENAME%20-BlueHunter-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="aw" src="https://img.shields.io/badge/VERSION%20-2.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
 
 
 
@@ -26,9 +26,9 @@ User can hack bluetooth device:
 apt-get install python3-pip
 git clone https://github.com/AnuhasRox/BlueHunter.git
 cd BlueHunter
-python3 -m pip install -r requirements.txt
-python3 Install.py
-python3 BlueHunter.py
+sudo python3 -m pip install -r requirements.txt
+sudo python3 Install.py
+sudo python3 BlueHunter.py
 ```
 ### on Ubuntu 20.04
 
@@ -36,8 +36,8 @@ python3 BlueHunter.py
 sudo apt-get install git python3-pip
 git clone https://github.com/AnuhasRox/BlueHunter.git
 cd BlueHunter
-python3 -m pip install -r requirements.txt
-python3 Install.py
-python3 BlueHunter.py
+sudo python3 -m pip install -r requirements.txt
+sudo python3 Install.py
+sudo python3 BlueHunter.py
 
 ```
