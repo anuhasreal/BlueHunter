@@ -30,7 +30,7 @@ sudo python3 -m pip install -r requirements.txt
 sudo python3 Install.py
 sudo python3 BlueHunter.py
 ```
-### on Ubuntu 20.04
+### on Ubuntu
 
 ```
 sudo apt-get install git python3-pip
